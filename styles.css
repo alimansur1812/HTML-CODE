@@ -1,0 +1,21 @@
+h1 {
+    color: black;
+    background-color: rgb(210, 210, 210);
+}
+h2 {
+    color: aqua; 
+    background-color: darkcyan;
+}
+h3 {
+    color: lightgreen;
+    background-color: darkgreen;
+}
+ul {
+    color: red;
+}
+ol {
+    color: blue;
+}
+.idk {
+    color: blueviolet;
+}
